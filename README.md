@@ -8,11 +8,11 @@
 
 <br>
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge"/>
+<a href="https://github.com/rattlecoder">
+<img src="https://img.shields.io/github/followers/rattlecoder?label=Followers&style=for-the-badge"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=brightgreen"/>
+<img src="https://komarev.com/ghpvc/?username=rattlecoder&style=for-the-badge&color=brightgreen"/>
 
 </div>
 
