@@ -4,13 +4,9 @@
 
 ### Senior Software Engineer • GenAI • Full Stack Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=Building+StepViz...;Building+GrowthXElevate...;FastAPI+%7C+React+%7C+Python;Open+Source+Enthusiast;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=Building+StepViz...;Building+GrowthXElevate...;Building+RageLess...;FastAPI+%7C+React+%7C+Python;Open+Source+Enthusiast;Always+Learning+Something+New" />
 
 <br>
-
-<a href="https://github.com/rattlecoder">
-<img src="https://img.shields.io/github/followers/rattlecoder?label=Followers&style=for-the-badge"/>
-</a>
 
 <img src="https://komarev.com/ghpvc/?username=rattlecoder&style=for-the-badge&color=brightgreen"/>
 
@@ -20,12 +16,11 @@
 
 # 🚀 About Me
 
-- 💼 Senior Software Engineer
-- 🚀 Building **StepViz**
-- 📈 Building **GrowthXElevate**
-- 🤖 Passionate about AI & Developer Tools
-- ☁️ Backend Engineer specializing in FastAPI & AWS
-- 🌱 Currently learning System Design, LLD and AI Agents
+* 💼 Senior Software Engineer
+* 🚀 Building products that developers and creators love
+* 🤖 Passionate about AI, Developer Tools & SaaS
+* ☁️ Backend Engineer specializing in FastAPI, Python & AWS
+* 🌱 Currently learning System Design, LLD & AI Agents
 
 ---
 
@@ -34,70 +29,56 @@
 ### Languages
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=python,java,js,ts,cpp"/>
-
 </p>
 
 ### Frontend
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,html,css"/>
-
 </p>
 
 ### Backend
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,flask"/>
-
-</p>
-
-### AI / ML
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
-
 </p>
 
 ### Database
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis"/>
-
 </p>
 
 ### Cloud & DevOps
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=aws,azure,docker,git,github,vscode"/>
-
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-## 🟢 StepViz
+## 🟢 [StepViz](https://stepviz.org)
 
-Visualize code execution like never before.
-
-> Interactive code visualization IDE built for developers.
+Interactive IDE that visualizes code execution step-by-step to make debugging and learning programming intuitive.
 
 ---
 
-## 📈 GrowthXElevate
+## 📈 [GrowthXElevate](https://growthxelevate.com)
 
-AI-powered platform to help creators and professionals grow online.
+AI-powered platform helping creators and professionals grow their online presence.
 
 ---
 
-## 📊 GitHub Stats
+## ❤️ [RageLess](https://rageless.app)
+
+A mental wellness companion that helps you understand, manage, and recover from moments of anger and stress.
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
 
@@ -129,12 +110,11 @@ AI-powered platform to help creators and professionals grow online.
 
 ---
 
-
 # 📫 Connect with Me
 
 <p>
 
-<a href="https://linkedin.com/in/shashankt9/">
+<a href="https://linkedin.com/in/shashankt9">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
